@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dog_breeds_title">Perros</string>
+    <string name="network_error">Lo sentimos, ocurrió un error en la red.</string>
+    <string name="unknown_error">Error desconocido</string>
+    <string name="no_data">No se obtuvo data</string>
+    <string name="dog_breed_image_description">Un perro de la raza $1%s</string>
+    <string name="no_images_found">No se encontraron imágenes</string>
+    <string name="go_back">Regresar</string>
+    <string name="add_to_favorites">Agregar a favoritos</string>
+    <string name="remove_from_favorites">Remover de favoritos</string>
+    <string name="go_to_favorites">Ir a favoritos</string>
+    <string name="no_favorites_yet">No favorites yet</string>
+    <string name="favorites">Favoritos</string>
+    <string name="filter_by_breed">Filter by breed</string>
+</resources>

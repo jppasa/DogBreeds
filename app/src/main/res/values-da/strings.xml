@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dog_breeds_title">Hunde</string>
+    <string name="network_error">Beklager, der opstod en netværksfejl.</string>
+    <string name="unknown_error">Ukendt fejl</string>
+    <string name="no_data">Ingen data blev hentet</string>
+    <string name="dog_breed_image_description">En hund af racen $1%s</string>
+    <string name="no_images_found">Ingen billeder fundet</string>
+    <string name="go_back">Gå tilbage</string>
+    <string name="add_to_favorites">Tilføj til favoritter</string>
+    <string name="remove_from_favorites">Fjern fra favoritter</string>
+    <string name="go_to_favorites">Gå til favoritter</string>
+    <string name="no_favorites_yet">No favorites yet</string>
+    <string name="favorites">Favoritter</string>
+    <string name="filter_by_breed">Filter by breed</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">DogBreeds</string>
+    <string name="dog_breeds_title">Dogs</string>
+    <string name="network_error">Sorry, a network error occurred.</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="no_data">No data was fetched</string>
+    <string name="dog_breed_image_description">A dog from breed $1%s</string>
+    <string name="no_images_found">No images found</string>
+    <string name="go_back">Go back</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+    <string name="go_to_favorites">Go to favorites</string>
+    <string name="no_favorites_yet">No favorites yet</string>
+    <string name="favorites">Favorites</string>
+    <string name="filter_by_breed">Filter by breed</string>
+
+</resources>
